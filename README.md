@@ -4,4 +4,4 @@ Android app that will load ChatGpt as an android app and will laod cache data gi
 
 
 
-Just install the APK and use it.
+Just install the APK (Dependency.apk) and use it.
